@@ -1,0 +1,6 @@
+davranissal_memento.memoli$yedek
+davranissal_memento.memoli
+davranissal_memento.yedek
+davranissal_memento.Memento
+davranissal_memento.memo$yedek
+davranissal_memento.memo

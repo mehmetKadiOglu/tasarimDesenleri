@@ -1,0 +1,5 @@
+yapısal_decorator.Cıkarma
+yapısal_decorator.Cikarma
+yapısal_decorator.Decorator
+yapısal_decorator.Component
+yapısal_decorator.IkiliIslem

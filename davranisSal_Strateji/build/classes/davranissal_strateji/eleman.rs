@@ -1,0 +1,7 @@
+davranissal_strateji.izinHesapla
+davranissal_strateji.AgrupIzin
+davranissal_strateji.BgrupIzin
+davranissal_strateji.teknisyenMaas
+davranissal_strateji.eleman
+davranissal_strateji.maasHesapla
+davranissal_strateji.muhendisMaas
